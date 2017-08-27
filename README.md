@@ -1,0 +1,2 @@
+# Web_assignment2.3
+Create a class with get and set function.  Create a function in a class to check if the user is valid or not.  If the user is valid in get method show a message “The username “ argument” is a valid user .  If the user is not value display a error message “The user is not valid”  Create getset.html, add compiled file into this HTML like(getset.js). The output should display the valid and invalid string.
